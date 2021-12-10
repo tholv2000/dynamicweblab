@@ -2,7 +2,7 @@
 	//start session
 	//session_set_cookie_params(86000,'/','localhost',false,true);
 	session_start();
-
+	//phpinfo();
 	//load file config
 	include "config.php";
 	//load file Connection.php
